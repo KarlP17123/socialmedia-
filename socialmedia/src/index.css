@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  /* ...dina custom utilities... */
+}
+
+/* Install tailwindcss, postcss, and autoprefixer */
+/* npm install tailwindcss postcss autoprefixer */
